@@ -16,7 +16,7 @@
   background-color: #111;
 }
 
-.navLogo {
+.nav__logo {
   position: fixed;
   left: 20px;
   width: 90px;
@@ -24,7 +24,7 @@
   top: 10px;
 }
 
-.navAvatar {
+.nav__avatar {
   position: fixed;
   right: 20px;
   width: 30px;
